@@ -1,4 +1,4 @@
-# Cinema-BDD-MSQL
+# Cinema-Base de données
 
 /*CREATION DUNE BASE DE DONNEES SQL pour une entreprise Fictive de cinéma.*/
 
